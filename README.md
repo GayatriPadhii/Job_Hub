@@ -134,15 +134,6 @@ POST /api/jobs
 - Validates incoming data and restricts actions based on user role  
 
 ---
-
-## 👤 Roles & Permissions
-
-- **Job Seeker**: Browse listings, apply to jobs  
-- **Employer**: Post jobs, review applicants  
-- **Admin** (optional): Manage users and job listings  
-
----
-
 ## 🌱 Future Enhancements
 
 - Email notifications for new applications or posts  
@@ -165,10 +156,3 @@ Contributions are welcome! Feel free to:
 - Fork the repository  
 - Create a feature branch  
 - Submit a pull request with tests and description  
-
----
-
-## 📞 Contact
-
-- GitHub: [Gayatri Padhii](https://github.com/GayatriPadhii)  
-- LinkedIn / Email: (add your contact method)
